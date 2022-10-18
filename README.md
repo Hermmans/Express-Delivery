@@ -13,6 +13,7 @@ down below is the presentation:
 https://www.figma.com/proto/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=0%3A1&scaling=contain&page-id=0%3A1&starting-point-node-id=18%3A2&show-proto-sidebar=1
 
 #Why create an application like this?
+
 I really wanted to show off my skills and ability to in creating a full stack application, as well as being able to use figma and designing new components. I personally wanted to implement something new at work. I know that allot of facilities don't have functional computers, so I wanted to create a web application that will allow dock workers to access this application on any device, such a phone, a scanner from work, a tablet, a whole new computer, etc. 
 #What the application should look like:
 If you want a step by step design go into my figma page and follow the pages as follow (https://www.figma.com/file/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=20%3A44):
