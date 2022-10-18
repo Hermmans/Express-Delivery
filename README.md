@@ -4,6 +4,7 @@
 An application that allows users to add move items from one dock door to another via phone, tablet, or desktop. 
 This application resembles the application in fedex that allows dock workers to move freight via a desktop application, with a few added tweaks, as well as a phone version. The phone version was designed first on an iphone 13 mini to simulate the *Panasonic FZ-N1*. This application will be using java JPA, react, html css, and SQL.
 ##Design of the page
+
 down below is my figma:
 
 https://www.figma.com/file/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=20%3A44
@@ -12,7 +13,7 @@ down below is the presentation:
 
 https://www.figma.com/proto/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=0%3A1&scaling=contain&page-id=0%3A1&starting-point-node-id=18%3A2&show-proto-sidebar=1
 
-#Why create an application like this?
+##Why create an application like this?
 
 I really wanted to show off my skills and ability to in creating a full stack application, as well as being able to use figma and designing new components. I personally wanted to implement something new at work. I know that allot of facilities don't have functional computers, so I wanted to create a web application that will allow dock workers to access this application on any device, such a phone, a scanner from work, a tablet, a whole new computer, etc. 
 #What the application should look like:
