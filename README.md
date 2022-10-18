@@ -24,16 +24,16 @@ __Desktop:__ _LOGIN PAGE -> Home screen -- SELECT UNLOAD BUTTON --> unload page 
 
 &&
 
-_LOGIN PAGE -> Home screen -- SELECT lOAD BUTTON --> load page 1 -> load page 2 -> loaded to the door -> loaded but unloaded
+_LOGIN PAGE -> Home screen -- SELECT lOAD BUTTON --> load page 1 -> load page 2 -> loaded to the door -> loaded but unloaded_
 
 __Phone:__ _phone LOGIN PAGE -> phone Home screen -- SELECT UNLOAD BUTTON --> phone unload page 1 -> phone unload page 2 -> (phone)toggled unload / load pg nxt -> (phone)UNtoggled unload BUTTON_
 
 &&
 
-_phone LOGIN PAGE -> phone Home screen -- SELECT LOAD BUTTON --> phone load page 1 -> phone load page 2 -> phone loaded load -> phone unloaded loaded load
+_phone LOGIN PAGE -> phone Home screen -- SELECT LOAD BUTTON --> phone load page 1 -> phone load page 2 -> phone loaded load -> phone unloaded loaded load_
 
 
-Here are a few screen shot of what it should look like (remember these are not all the photos of how it should follow, for more go to my figma link). 
+__*Here are a few screen shot of what it should look like (remember these are not all the photos of how it should follow, for more go to my figma link).*__ 
 
 __*home screen*__
 ![Home screen](https://user-images.githubusercontent.com/22404367/196524704-5cc8a052-e8ce-4b6b-9507-83c83233b9b3.png)
