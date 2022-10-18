@@ -1,4 +1,5 @@
-![EX-DELIVERY LOGO](https://user-images.githubusercontent.com/22404367/196525904-6db44714-9ba2-459d-9174-afc743480edc.png)
+![EX-DELIVERY LOGO](https://user-images.githubusercontent.com/22404367/196526178-94d8ecf0-395d-44fd-b632-29508c14fa43.png)
+
 # Express-Delivery
 An application that allows users to add move items from one dock door to another via phone, tablet, or desktop. 
 This application resembles the application in fedex that allows dock workers to move freight via a desktop application, with a few added tweaks, as well as a phone version. The phone version was designed first on an iphone 13 mini to simulate the *Panasonic FZ-N1*. This application will be using java JPA, react, html css, and SQL.
@@ -15,12 +16,17 @@ https://www.figma.com/proto/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=0%3A
 I really wanted to show off my skills and ability to in creating a full stack application, as well as being able to use figma and designing new components. I personally wanted to implement something new at work. I know that allot of facilities don't have functional computers, so I wanted to create a web application that will allow dock workers to access this application on any device, such a phone, a scanner from work, a tablet, a whole new computer, etc. 
 #What the application should look like:
 If you want a step by step design go into my figma page and follow the pages as follow (https://www.figma.com/file/91rxg9ROBDTDwhCn4phrGx/Express-Delivery?node-id=20%3A44):
+
 __Desktop:__ _LOGIN PAGE -> Home screen -- SELECT UNLOAD BUTTON --> unload page 1 -> unload page 2 -> toggled unload / load pg nxt -> UNtoggled unload BUTTON_
+
 &&
+
 _LOGIN PAGE -> Home screen -- SELECT lOAD BUTTON --> load page 1 -> load page 2 -> loaded to the door -> loaded but unloaded
 
 __Phone:__ _phone LOGIN PAGE -> phone Home screen -- SELECT UNLOAD BUTTON --> phone unload page 1 -> phone unload page 2 -> (phone)toggled unload / load pg nxt -> (phone)UNtoggled unload BUTTON_
+
 &&
+
 _phone LOGIN PAGE -> phone Home screen -- SELECT LOAD BUTTON --> phone load page 1 -> phone load page 2 -> phone loaded load -> phone unloaded loaded load
 
 
